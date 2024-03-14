@@ -18,7 +18,7 @@ const Login = ({ setIsLoggedIn }) => {
     </div>
   );
 };
-// hello
+
 
 const PrivateRoute = ({ element, isLoggedIn }) => {
   return isLoggedIn ? element : <Navigate to="/login" />;
