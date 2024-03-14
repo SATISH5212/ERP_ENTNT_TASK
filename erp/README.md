@@ -28,8 +28,13 @@
   step4 : To run the project locally, use the following command
   npm start
 
+# Deployment
+  
+  Check out the live deployment here:(https://erp-bussiness.netlify.app/).
+
 # Contact:
 If you have any questions or suggestions, feel free to contact me at Satish Gudala.
+
 
 
 
