@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ERP_ENTNT_TASK/static/css/main.50588945.css",
+    "main.js": "/ERP_ENTNT_TASK/static/js/main.8021b29d.js",
+    "static/js/453.f348d8e1.chunk.js": "/ERP_ENTNT_TASK/static/js/453.f348d8e1.chunk.js",
+    "static/media/honepage.jpg": "/ERP_ENTNT_TASK/static/media/honepage.10bdddb457ba7e687bf3.jpg",
+    "index.html": "/ERP_ENTNT_TASK/index.html",
+    "main.50588945.css.map": "/ERP_ENTNT_TASK/static/css/main.50588945.css.map",
+    "main.8021b29d.js.map": "/ERP_ENTNT_TASK/static/js/main.8021b29d.js.map",
+    "453.f348d8e1.chunk.js.map": "/ERP_ENTNT_TASK/static/js/453.f348d8e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50588945.css",
+    "static/js/main.8021b29d.js"
+  ]
+}
